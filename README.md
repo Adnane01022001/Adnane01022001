@@ -6,7 +6,7 @@
   - [Conducting Security Audit](https://github.com/)
   - [Using NIST CSF Framework to Respond to a Security Incident](https://github.com/)
 
-<h2>Certification 📄 </h2>
+<h2>Certifications 📄 </h2>
 
 - [Network Security Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Network Security Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
