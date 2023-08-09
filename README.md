@@ -8,9 +8,8 @@
 
 <h2>Certifications 📄 </h2>
 
-- [Network Security Professional](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Network Security Analyst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-
+- [Network Security Professional](https://drive.google.com/file/d/1vgBP2R6U9D9V_4Byd2oSDYeRPs2t1VJG/view?usp=sharing)
+- [Network Security Analyst](https://drive.google.com/file/d/1nM2c6QKMFedcVcomr6BzEf48ZYqbPJE3/view?usp=sharing)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
