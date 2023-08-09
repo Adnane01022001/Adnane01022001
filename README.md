@@ -2,14 +2,12 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-  - [Active Directory Home Lab](https://github.com/)
-  - [Conducting Security Audit](https://github.com/)
   - [Using NIST CSF Framework to Respond to a Security Incident](https://github.com/Adnane01022001/NISTCSF/tree/main))
 
 <h2>Certifications 📄 </h2>
 
-- [Network Security Professional](https://drive.google.com/file/d/1vgBP2R6U9D9V_4Byd2oSDYeRPs2t1VJG/view?usp=sharing)
-- [Network Security Analyst](https://drive.google.com/file/d/1nM2c6QKMFedcVcomr6BzEf48ZYqbPJE3/view?usp=sharing)
+- [Fortinet Network Security Professional](https://drive.google.com/file/d/1vgBP2R6U9D9V_4Byd2oSDYeRPs2t1VJG/view?usp=sharing)
+- [Fortinet Network Security Analyst](https://drive.google.com/file/d/1nM2c6QKMFedcVcomr6BzEf48ZYqbPJE3/view?usp=sharing)
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
