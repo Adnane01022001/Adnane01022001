@@ -3,6 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
   - [Using NIST CSF Framework to Respond to a Security Incident](https://github.com/Adnane01022001/NISTCSF/tree/main))
+  - [Use Linux commands to manage file permissions](https://github.com/Adnane01022001/Linux/tree/main)
 
 <h2>Certifications 📄 </h2>
 
