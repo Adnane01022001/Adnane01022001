@@ -4,6 +4,7 @@
 
   - [Using NIST CSF Framework to Respond to a Security Incident](https://github.com/Adnane01022001/NISTCSF/tree/main))
   - [Use Linux commands to manage file permissions](https://github.com/Adnane01022001/Linux/tree/main)
+  - [Investigating Intrusive Activities: Probing Suspicious Logins Using SQL Analysis](https://github.com/Adnane01022001/SQLFilters)
 
 <h2>Certifications 📄 </h2>
 
